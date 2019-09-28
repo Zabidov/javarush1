@@ -11,7 +11,7 @@ public class BufferedInputExample {
         BufferedInputStream buffer = null;
 
         try {
-
+//ololo
             inputStream = new FileInputStream("c:/data.txt"); // svoy fayl
 
             buffer = new BufferedInputStream(inputStream);
